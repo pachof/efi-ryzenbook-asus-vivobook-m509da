@@ -28,7 +28,6 @@
   
 <div align="center">
   
-![Screenshot](Screenshots/specs.png)
   
 </div>
 
